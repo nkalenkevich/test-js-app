@@ -1,3 +1,8 @@
-console.log('Hello world');
-var x=5*5;
-console.log(x);
+let name = 'Nikita';
+let x = 'smart';
+let y = 'boy';
+let s = ' ';
+const nikitaResult = null;
+
+console.assert('Nikita smart boy' === nikitaResult);
+console.log('ok');
